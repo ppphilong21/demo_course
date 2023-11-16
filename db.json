@@ -31,7 +31,7 @@
                 "country": "USA"
             },
             "course_done": 3,
-            "user_status": "Active",
+            "user_status": "Hoạt động",
             "description": "Hello, I'm John Doe.",
             "user_job": "Software Engineer",
             "work_address": "Tech Company",
@@ -50,7 +50,7 @@
                 "country": "France"
             },
             "course_done": 1,
-            "user_status": "Active",
+            "user_status": "Hoạt động",
             "description": "Bonjour! I'm Alice.",
             "user_job": "Graphic Designer",
             "work_address": "Design Studio",
@@ -69,7 +69,7 @@
                 "country": "Australia"
             },
             "course_done": 4,
-            "user_status": "Inactive",
+            "user_status": "InHoạt động",
             "description": "G'day! I'm Bob.",
             "user_job": "Marketing Specialist",
             "work_address": "Marketing Agency",
@@ -88,7 +88,7 @@
                 "country": "Spain"
             },
             "course_done": 2,
-            "user_status": "Active",
+            "user_status": "Hoạt động",
             "description": "Hola! Soy Eva.",
             "user_job": "Architect",
             "work_address": "Architectural Firm",
@@ -107,7 +107,7 @@
                 "country": "Canada"
             },
             "course_done": 5,
-            "user_status": "Active",
+            "user_status": "Hoạt động",
             "description": "Hello world! I'm Chris.",
             "user_job": "Data Scientist",
             "work_address": "Tech Startup",
@@ -126,7 +126,7 @@
                 "country": "South Korea"
             },
             "course_done": 3,
-            "user_status": "Active",
+            "user_status": "Hoạt động",
             "description": "안녕하세요! I'm Sophie.",
             "user_job": "UX Designer",
             "work_address": "Design Agency",
@@ -145,7 +145,7 @@
                 "country": "Brazil"
             },
             "course_done": 2,
-            "user_status": "Active",
+            "user_status": "Hoạt động",
             "description": "Olá! I'm Alexandre.",
             "user_job": "Software Developer",
             "work_address": "Tech Company",
@@ -164,7 +164,7 @@
                 "country": "China"
             },
             "course_done": 4,
-            "user_status": "Active",
+            "user_status": "Hoạt động",
             "description": "你好! I'm Mia.",
             "user_job": "Business Analyst",
             "work_address": "Finance Firm",
@@ -183,7 +183,7 @@
                 "country": "India"
             },
             "course_done": 3,
-            "user_status": "Active",
+            "user_status": "Hoạt động",
             "description": "नमस्ते! I'm Ravi.",
             "user_job": "Marketing Manager",
             "work_address": "Marketing Agency",
@@ -202,7 +202,7 @@
                 "country": "Japan"
             },
             "course_done": 5,
-            "user_status": "Active",
+            "user_status": "Hoạt động",
             "description": "こんにちは! I'm Yuki.",
             "user_job": "Product Manager",
             "work_address": "Tech Company",
@@ -221,7 +221,7 @@
                 "country": "Ireland"
             },
             "course_done": 3,
-            "user_status": "Active",
+            "user_status": "Hoạt động",
             "description": "Dia dhuit! I'm Liam.",
             "user_job": "Content Writer",
             "work_address": "Media Company",
@@ -240,7 +240,7 @@
                 "country": "Russia"
             },
             "course_done": 4,
-            "user_status": "Active",
+            "user_status": "Hoạt động",
             "description": "Привет! I'm Elena.",
             "user_job": "Data Analyst",
             "work_address": "Tech Company",
@@ -259,7 +259,7 @@
                 "country": "Mexico"
             },
             "course_done": 2,
-            "user_status": "Active",
+            "user_status": "Hoạt động",
             "description": "Hola! I'm Carlos.",
             "user_job": "Financial Analyst",
             "work_address": "Finance Firm",
@@ -278,7 +278,7 @@
                 "country": "Pakistan"
             },
             "course_done": 3,
-            "user_status": "Active",
+            "user_status": "Hoạt động",
             "description": "ہیلو! I'm Aisha.",
             "user_job": "HR Manager",
             "work_address": "Corporate Office",
